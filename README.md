@@ -16,3 +16,9 @@ ___
     $ npm init
     $ npm install --save express
     $ nodemon server.js
+
+009 Your first home route
+
+010 Adding loggin request library Morgan
+
+    $ npm install --save morgan
