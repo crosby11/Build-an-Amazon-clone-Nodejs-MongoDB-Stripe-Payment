@@ -1,0 +1,23 @@
+{
+  "name": "AmazonClone",
+  "version": "1.0.0",
+  "description": "Build-an-Amazon-clone-Nodejs-MongoDB-Stripe-Payment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marley-nodejs/Build-an-Amazon-clone-Nodejs-MongoDB-Stripe-Payment"
+  },
+  "author": "Marley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marley-nodejs/Build-an-Amazon-clone-Nodejs-MongoDB-Stripe-Payment/issues"
+  },
+  "homepage": "https://github.com/marley-nodejs/Build-an-Amazon-clone-Nodejs-MongoDB-Stripe-Payment",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
